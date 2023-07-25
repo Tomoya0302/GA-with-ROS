@@ -22,7 +22,7 @@
 - 決定変数
     - Plce 位置座標 ($x_t$, $y_t$)
     - ロボットの位置座標 ($x_r$, $y_r$, $z_r$)
-    - ロボットの姿勢 (24通り)
+    - ロボットの姿勢 (24通り...ロボットの姿勢番号については，http://kondolab.org/archive/2010/research/cadcgtext/ChapC/ChapC01.html を参照してください。)
 
 - 評価関数
     - ロボットの動作時間最小化
