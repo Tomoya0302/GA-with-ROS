@@ -3,7 +3,7 @@
 ## Problem description
 
 ### 実行例
-
+![ga_with_ros](https://github.com/Tomoya0302/GA-with-ROS/assets/23186611/00e0f943-2fa5-4c5b-a2af-107f6fd2a389)
 
 ### 問題設定
 
@@ -17,7 +17,7 @@
 
 - 固定
     - Pick up 位置座標 (0.4, 0.4, 0.4)
-    - Place 位置の$z$座標 ($z_t$ = 0)
+    - Place 位置の $z$ 座標 ($z_t$ = 0)
 
 - 決定変数
     - Plce 位置座標 ($x_t$, $y_t$)
