@@ -36,9 +36,6 @@
     - 3系 (3.10.7で動作確認)
     - 2系 (2.7.17で動作確認)
 
-- ライブラリ
-    - ```$ pip install -r requirements.txt```
-
 - ROS環境
     - ROS Melodic
     - https://docs.niryo.com/dev/ros/v4.1.1/en/source/installation/ubuntu_18.html を参照して環境構築してください。
