@@ -3,7 +3,7 @@
 ## Problem description
 
 ### 実行例
-![ga_with_ros](https://github.com/Tomoya0302/GA-with-ROS/assets/23186611/00e0f943-2fa5-4c5b-a2af-107f6fd2a389)
+![ga_with_ros](https://github.com/Tomoya0302/GA-with-ROS/assets/23186611/f5e3e06c-389b-4483-a527-2419ecc18915)
 
 ### 問題設定
 
