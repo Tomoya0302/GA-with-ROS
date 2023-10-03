@@ -44,16 +44,16 @@
 
 1. ターミナルで
     ```
-    $ roslaunch niryo_robot_bringup desktop_rviz_simulation.launch
+    roslaunch niryo_robot_bringup desktop_rviz_simulation.launch
     ```
 
 1. 新しいターミナルで
     ```
-    $ python3 ga.py
+    python3 ga.py
     ```
 
 1. 新しいターミナルで
     ```
-    $ python2 ned.py
+    python2 ned.py
     ```
 
